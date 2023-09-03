@@ -1,5 +1,3 @@
 # Rivian Community Idea Board
 
-As owners and fans of Rivian vehicles, we have ideas for how they can be even better.
-
-See [@bretterer's announcement](https://github.com/rivian-community/idea-board/discussions/1) for more info, or visit the [Discussions tab](https://github.com/rivian-community/idea-board/discussions) to vote for your favorites, or add a new idea of your own.
+This was an early Rivian community [wishlist](https://github.com/rivian-community/idea-board/discussions) of vehicle improvements. It's been archived, but another wishlist lives on: https://rivian.software/wish/
